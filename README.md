@@ -1,4 +1,4 @@
-# 🧙‍♂️ JavaScript Dicas e Truques Para Codar Como Um Herói 🦸‍♂️
+# 🧙‍♂️ JavaScript Dicas/Truques Para Codar Como Herói 🦸‍♂️
 
 ### 1. Gerar números dentro de um intervalo.
 
